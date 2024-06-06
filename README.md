@@ -17,20 +17,20 @@
 Install using `pip`:
 
 ```
-pip install py-tracing
+pip install tracing-py3
 ```
 
 Install using `poetry` CLI:
 
 ```
-poetry add py-tracing
+poetry add tracing-py3
 ```
 
 or using `pyproject.toml`:
 
 ```toml
 [tool.poetry.dependencies]
-py-tracing = "^0.1.0"
+tracing-py3 = "^0.1.0"
 ```
 
 

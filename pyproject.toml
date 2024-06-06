@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "py-tracing"
+name = "tracing-py3"
 version = "0.1.0"
 description = "Superset of python internal logging module"
 authors = ["Hendrik Boeck <hendrikboeck.dev@protonmail.com>"]
